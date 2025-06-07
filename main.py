@@ -39,7 +39,6 @@ def textToSpeech2():
         if stop == True:
             break;
 
-
 print("Welcome to RoboSpeaker, Created by Rupesh!")
 textToSpeech2()
 
