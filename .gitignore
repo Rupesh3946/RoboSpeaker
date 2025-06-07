@@ -1,0 +1,23 @@
+your .gitignore content
+
+# macOS system files
+.DS_Store
+
+# IDE files
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# Output files
+*.mp3
+*.wav
+*.log
